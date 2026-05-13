@@ -10,8 +10,8 @@ The goal is to help maintenance teams identify high-risk machines and take proac
 
 ## 🚀 Tools & Technologies Used
 
-- Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning (Random Forest, Model Evaluation)
+- Python (Pandas, NumPy, matplotlib,seaborn,Scikit-learn)
+- Machine Learning (Random Forest, logistic regression, DecisionTree,Model Evaluation)
 - SQL (Data extraction & analysis)
 - Power BI (Dashboard & Visualization)
 - Google Colab (Development environment)
